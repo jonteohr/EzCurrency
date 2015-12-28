@@ -1,0 +1,1 @@
+This is the .jar file that you can actually use on your server as a plugin.
