@@ -1,0 +1,6 @@
+# What the currency should be called.
+currency_name: 'credits'
+
+# If a 'developer' tag is to be shown when a developer of this plugin joins the server.
+# Please leave this to true, if you really don't want it; you can easily set the value to false and reload the config with /currency reload
+dev_tag: true

@@ -1,0 +1,7 @@
+name: EzCurrency
+version: 1.0
+author: Condolent
+main: me.condolent.EzCurrencyMain
+commands:
+   currency:
+      description: Basic usage of the EzCurrency plugin.
