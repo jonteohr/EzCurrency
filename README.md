@@ -26,5 +26,16 @@ currency_name: 'credits'
 # Please leave this to true, if you really don't want it; you can easily set the value to false and reload the config with /currency reload
 dev_tag: true
 ```
+
+#Player logging
+The plugin logs the players that have joined with their UUID. All logs are contained in the PlayerLog.yml file inside the plugin/EzCurrency folder.  
+The player-log contains information on how to change the players' current balance.
+```ruby
+# Players are logged with their UUID.
+# Below, you'll find all UUID's of joined players and their current balance. You can add coins/credits to their account by issuing the /currency add <player> <amount> command
+# or you can change their currency via this file. Find the player's UUID and then change the number. Don't forget to /currency reload for the log to actually save and take effect.
+```
+Bellow the information will be the UUID's and balance of the players.
+<br />
 ----
 [**Official Twitter**](http://twitter.com/hyprcsgo) • [**Development blog**](http://jonathan.ohrstrom.nu/blog/) • [**BukkitDev**](http://dev.bukkit.org/bukkit-plugins/ezcurrency)
