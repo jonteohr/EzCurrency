@@ -27,4 +27,4 @@ currency_name: 'credits'
 dev_tag: true
 ```
 ----
-**[[http://twitter.com/hyprcsgo|Official twitter]] • [[http://jonathan.ohrstrom.nu/blog/|Development blog]] • [[http://dev.bukkit.org/bukkit-plugins/mc-rpg/forum/|**Support forum**]] • [[https://github.com/condolent/EzCurrency|**Github**]]
+**[Official Twitter](http://twitter.com/hyprcsgo) • [Development blog](http://jonathan.ohrstrom.nu/blog/) • [**BukkitDev**](http://dev.bukkit.org/bukkit-plugins/ezcurrency)
